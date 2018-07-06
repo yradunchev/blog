@@ -19,8 +19,8 @@ pygmentscodefencesguesssyntax = true
     description = "bin"
     keywords = "blog,personal,sysadmin"
     info = "Field Artillery Automated Tactical Data System Specialist"
-    #avatarurl = "images/avatar.jpg"
-    footercontent = ""
+    avatarurl = "images/yra.jpg"
+    footercontent = "zup?"
 
     hideCredits = false
     hideCopyright = true
