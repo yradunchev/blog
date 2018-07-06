@@ -23,7 +23,7 @@ pygmentscodefencesguesssyntax = true
     footercontent = ""
 
     hideCredits = false
-    hideCopyright = false
+    hideCopyright = true
 
 
     # Custom CSS
