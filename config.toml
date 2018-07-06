@@ -1,4 +1,4 @@
-baseurl = "http://yradunchev.github.io"
+baseurl = "https://yradunchev.github.io"
 title = "yradunchev"
 
 theme = "coder"
@@ -12,7 +12,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+#disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Yordan Radunchev"
