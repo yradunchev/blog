@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:yradunchev/yradunchev.github.io.git
+	branch = master
+[submodule "themes/coder"]
+	path = themes/coder
+	url = https://github.com/luizdepra/hugo-coder.git
