@@ -1,3 +1,55 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "http://yradunchev.github.io"
+title = "yradunchev"
+
+theme = "coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Yordan Radunchev"
+    description = "bin"
+    keywords = "blog,personal,sysadmin"
+    info = "Field Artillery Automated Tactical Data System Specialist"
+    #avatarurl = "images/avatar.jpg"
+    footercontent = ""
+
+    hideCredits = false
+    hideCopyright = false
+
+
+    # Custom CSS
+    custom_css = []
+
+    # RTL support
+    rtl = false
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/yradunchev/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/yradunchev/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/yradunchev/"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+#    name = "About"
+#    weight = 2
+#    url = "/about/"
