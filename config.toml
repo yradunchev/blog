@@ -45,6 +45,11 @@ pygmentscodefencesguesssyntax = true
     weight = 3
     url = "https://www.linkedin.com/in/yradunchev/"
 
+[[params.social]]
+    name = "FAATDS"
+    weight = 4
+    url = "https://www.youtube.com/watch?v=urWObzG9ZbU"
+
 #[[menu.main]]
 #    name = "Blog"
 #    weight = 1
