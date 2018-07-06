@@ -50,6 +50,6 @@ disqusShortname = "yourdiscussshortname"
     weight = 1
     url  = "/posts/"
 [[menu.main]]
-#    name = "About"
-#    weight = 2
-#    url = "/about/"
+    name = "About"
+    weight = 2
+    url = "/about/"
